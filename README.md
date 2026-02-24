@@ -8,7 +8,7 @@
 
 &copy; 2026 Lee Minseo (<quiple@quiple.dev>)
 
-&copy; 2023 患者長ひっく (<hicc.cb@gmail.com>)
+&copy; 2023 hicc (<hicc.cb@gmail.com>)
 
 > [!NOTE]
 > ### 요약
