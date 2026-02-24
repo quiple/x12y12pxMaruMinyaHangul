@@ -6,6 +6,10 @@
 
 ## 라이선스
 
+&copy; 2026 Lee Minseo (<quiple@quiple.dev>)
+
+&copy; 2023 患者長ひっく (<hicc.cb@gmail.com>)
+
 > [!NOTE]
 > ### 요약
 > | 범주 | 설명 | 비고 |
@@ -38,7 +42,7 @@
 
 この規約は予告なく変更する場合がありますが、フォントの利用料を請求する変更は行いません。
 
-© 2023 患者長ひっく
+&copy; 2023 患者長ひっく
 
 [라이선스 원본](https://hicchicc.github.io/00ff/)
 </details>
