@@ -2,13 +2,13 @@
 
 ![MaruMinyaHangul](./doc/x12y12pxMaruMinyaHangul.png)
 
-**마루미냐 한글**은 12픽셀 크기의 일본어 픽셀 폰트 '**[x12y12pxMaruMinya(マルミーニャ)](https://github.com/hicchicc/x12y12pxMaruMinya)**'를 기반으로 하는 한국어&middot;일본어 픽셀 폰트입니다.
+**마루미냐 한글**은 12px 크기의 일본어 픽셀 폰트 '**[x12y12pxMaruMinya(マルミーニャ)](https://github.com/hicchicc/x12y12pxMaruMinya)**'를 기반으로 하는 한국어&middot;일본어 픽셀 폰트입니다.
 
 ## 라이선스
 
 > [!NOTE]
 > ### 요약
-> | 범주 | 설명 | 비고 |
+> | 범주 | 구분 | 설명 |
 > | - | - | - |
 > | 상업적 이용 | ✅ 가능 | 폰트를 상업적으로 이용할 수 있습니다. 표현하는 내용이나 매체 등도 상관하지 않습니다. |
 > | 폰트 파일 임베드 | ✅ 가능 | 폰트 파일을 게임&middot;소프트웨어 등에 포함시키거나 웹 폰트로 이용할 수 있습니다. |
