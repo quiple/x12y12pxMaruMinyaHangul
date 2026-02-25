@@ -1,4 +1,5 @@
-Copyright (c) 2026, Lee Minseo (quiple@quiple.dev).
+Copyright (c) 2026 quiple (quiple@quiple.dev).
+Copyright (c) 2026 The x12y12pxMaruMinya Project Authors (https://github.com/hicchicc/x12y12pxMaruMinya).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
