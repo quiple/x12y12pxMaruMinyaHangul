@@ -8,19 +8,19 @@
 <prop id="lineGap" value="0"/>
 <prop id="xHeight" value="8"/>
 <prop id="capHeight" value="10"/>
-<name id="0" value="Copyright (c) 2023 hicc; 2026 quiple"/>
+<name id="0" value="Copyright (c) 2026 The x12y12pxMaruMinya Project Authors; Copyright (c) 2026 quiple"/>
 <name id="1" value="x12y12pxMaruMinyaHangul"/>
 <name id="2" value="Regular"/>
 <name id="3" value="x12y12pxMaruMinyaHangul"/>
 <name id="4" value="x12y12pxMaruMinyaHangul"/>
 <name id="5" value="2026-02-25"/>
 <name id="6" value="x12y12pxMaruMinyaHangul"/>
-<name id="8" value="00FF; quiple"/>
-<name id="9" value="00FF; quiple"/>
-<name id="11" value="https://x.com/hicchicc; https://quiple.dev"/>
-<name id="12" value="https://x.com/hicchicc; https://quiple.dev"/>
-<name id="13" value="Original license for hicc&#39;s original glyphs, and OFL 1.1 for &#34;All Hangul&#34; and the two Korean Won Symbols."/>
-<name id="14" value="https://hicchicc.github.io/00ff/; https://openfontlicense.org"/>
+<name id="8" value="The x12y12pxMaruMinya Project Authors; quiple"/>
+<name id="9" value="The x12y12pxMaruMinya Project Authors; quiple"/>
+<name id="11" value="https://github.com/hicchicc/x12y12pxMaruMinya; https://quiple.dev"/>
+<name id="12" value="https://github.com/hicchicc/x12y12pxMaruMinya; https://quiple.dev"/>
+<name id="13" value="This font software is licensed under the SIL Open Font License 1.1."/>
+<name id="14" value="https://openfontlicense.org"/>
 <name id="16" value="x12y12pxMaruMinyaHangul"/>
 <name id="17" value="Regular"/>
 <name id="18" value="x12y12pxMaruMinyaHangul"/>
