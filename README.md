@@ -21,6 +21,8 @@
 
 &copy; 2026 The x12y12pxMaruMinya Project Authors (<https://github.com/hicchicc/x12y12pxMaruMinya>)
 
+마루미냐 한글은 SIL 오픈 폰트 라이선스 1.1에 따라 이용할 수 있습니다.
+
 ## 제작에 사용된 도구
 
 - [BitHangul](https://bithangul.quiple.dev)
