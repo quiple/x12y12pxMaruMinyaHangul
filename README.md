@@ -2,6 +2,8 @@
 
 ![MaruMinyaHangul](./doc/x12y12pxMaruMinyaHangul.png)
 
+[데모](https://blog.quiple.dev/font/maruminya-hangul)
+
 **x12y12pxMaruMinyaHangul(마루미냐 한글)**은 12px 크기의 일본어 픽셀 폰트 '**[x12y12pxMaruMinya(マルミーニャ)](https://github.com/hicchicc/x12y12pxMaruMinya)**'를 기반으로 하는 한국어&middot;일본어 픽셀 폰트입니다.
 
 한글 음절 11,172자와 KS X 1001(한자 제외), KS X 1003 및 JIS X 0201, JIS X 0208의 전체 문자를 지원합니다.
